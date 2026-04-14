@@ -67,4 +67,15 @@ export const techStack: TechCard[] = [
     progress: 0,
     tags: ["Container", "DevOps", "CI/CD"],
   },
+  {
+    id: "git_hub",
+    name: "Git Hub",
+    description: "Git Hub 사용법 익히고 연습",
+    icon: "🐳",
+    category: "Tool",
+    level: "beginner",
+    status: "not-started",
+    progress: 0,
+    tags: ["Source", "Git"],
+  },
 ];
